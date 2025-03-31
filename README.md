@@ -1,4 +1,4 @@
-# Sentiment Analysis and Review Classification of Amazon Products
+# Sentiment Analysis and Review Classification of Amazon 
 
 ## Project Overview
 This project involves sentiment analysis of Amazon product reviews using TextBlob and VADER sentiment analysis. The goal is to classify reviews into positive, negative, and neutral sentiments and analyze the relationship between sentiment and overall ratings.
