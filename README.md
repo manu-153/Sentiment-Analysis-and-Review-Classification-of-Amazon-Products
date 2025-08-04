@@ -1,4 +1,5 @@
-# 📦 Sentiment Analysis and Review Classification of Amazon Products
+# 📦 Sentiment Analysis and Review Classification of Amazon Product
+
 
 ## 📌 Overview
 
