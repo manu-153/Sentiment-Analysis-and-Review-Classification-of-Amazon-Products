@@ -1,18 +1,17 @@
-# 📦 Sentiment Analysis and Review Classification of Amazon Product
+# Sentiment Analysis and Review Classification of Amazon Product
 
-
-## 📌 Overview
+## Overview
 
 This project performs **sentiment analysis** on Amazon product reviews using **TextBlob** and **VADER** sentiment analysis tools. The aim is to classify reviews into **positive**, **neutral**, and **negative** categories, and analyze how sentiment correlates with the given product ratings.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-* 🔍 **Sentiment Classification**
+ **Sentiment Classification**
   Classified over **100,000+ Amazon reviews** into three sentiment categories using polarity and compound scores.
 
-* 🧹 **Data Cleaning & Preprocessing**
+ **Data Cleaning & Preprocessing**
   Built preprocessing pipelines including:
 
   * Text normalization
@@ -20,7 +19,7 @@ This project performs **sentiment analysis** on Amazon product reviews using **T
   * Punctuation and noise filtering
   * Handling of imbalanced sentiment labels
 
-* 📊 **Visualization & Insights**
+   **Visualization & Insights**
 
   * Analyzed sentiment distribution
   * Explored the impact of review sentiment on product star ratings
@@ -28,7 +27,7 @@ This project performs **sentiment analysis** on Amazon product reviews using **T
 
 ---
 
-## 📈 Results Summary
+## Results Summary
 
 * **Average Ratings by Sentiment:**
 
@@ -40,7 +39,7 @@ This project performs **sentiment analysis** on Amazon product reviews using **T
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 * Source: [Amazon Product Reviews Dataset](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 * Size: \~100,000 reviews
@@ -48,7 +47,7 @@ This project performs **sentiment analysis** on Amazon product reviews using **T
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Programming Language:** Python
 * **Sentiment Tools:** `TextBlob`, `VADER` from `NLTK`
@@ -58,7 +57,7 @@ This project performs **sentiment analysis** on Amazon product reviews using **T
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone this repository
@@ -75,7 +74,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 1. **Preprocess Data:**
 
@@ -91,7 +90,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```bash
 📦amazon-review-sentiment
@@ -110,7 +109,7 @@ pip install -r requirements.txt
 
 ---
 
-## ✅ Future Work
+## Future Work
 
 * Integrate deep learning models (e.g., LSTM, BERT) for improved sentiment classification.
 * Add support for aspect-based sentiment analysis.
@@ -118,7 +117,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you find bugs or have suggestions for improvements, feel free to open an issue or pull request.
 
